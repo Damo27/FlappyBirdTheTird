@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371361442172",
+    "firebase_url": "https://flappybirdthetird.firebaseio.com",
+    "project_id": "flappybirdthetird",
+    "storage_bucket": "flappybirdthetird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371361442172:android:f53db004c1c83a03",
+        "android_client_info": {
+          "package_name": "com.damionj.flappybirdthetird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371361442172-pu5cd579q2u4q36air24gjugnmuf6pj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.damionj.flappybirdthetird",
+            "certificate_hash": "199baf9cbd9d54f07ddf8ec2f731372df39f5563"
+          }
+        },
+        {
+          "client_id": "371361442172-rakpijcgovk1j0g3oh32rtj0e9mbe4a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0f6kcpsTs-0S-N7Mpau4ffFGw3Pwq5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371361442172-rakpijcgovk1j0g3oh32rtj0e9mbe4a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
